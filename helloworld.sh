@@ -21,3 +21,19 @@ echo "This is third line"
 
 # This is the end of the script
 # End
+
+###########################################
+# These lines are added from linux user
+# These are just comments to show the changes
+# Add the modifications
+# Commit the changes
+# Do a fetch
+# Do a Pull
+# Resolve the conflicts if any 
+# Then finally push 
+###########################################
+
+
+
+
+
