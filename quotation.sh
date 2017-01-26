@@ -13,5 +13,15 @@ echo -e "\nThis is the value in double quotes $var1"
 
 echo -e '\nThis is the value in single quotes $var1'
 
+#################################
+#				#	
+#				#
+#				#
+#     Lines from Linux 		#
+#				#
+#				#
+#				#
+#################################
+
 
 # End
