@@ -17,7 +17,11 @@ echo "This is the second line"
 # I can perform other commands 
 echo "This is third line"
 
-
+# These lines are added from the desktop user
+# these are done from windows
+# this are written to train on git commits and push
+# if any error resolve the conflicts first
+# then push your changes 
 
 # This is the end of the script
 # End
